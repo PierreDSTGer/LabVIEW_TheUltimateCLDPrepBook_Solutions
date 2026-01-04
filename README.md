@@ -18,19 +18,15 @@ The VIs follow **clean architecture**, **state-machine principles**, and **best 
 
 ## 📂 Repository Structure
 
-Each folder contains only the **final VIs** as presented in the book:
-01 - ATM/
-02 - Boiler/
-03 - Car Wash/
-04 - Sprinkler Controller/
-
+This folder contains two folders. 
+The first one contains the statements of each exercices + NI provided VIs and controls + NI solutions 
+The second one contains the solutions presented in the book.
 
 ---
 
 ## 🛠 LabVIEW Version
 
 Compatible with **LabVIEW 2023+**  
-(If needed, I can provide versions saved for older LabVIEW releases.)
 
 ---
 
