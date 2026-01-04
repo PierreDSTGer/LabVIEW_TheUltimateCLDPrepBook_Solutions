@@ -19,7 +19,9 @@ The VIs follow **clean architecture**, **state-machine principles**, and **best 
 ## 📂 Repository Structure
 
 This folder contains two folders. 
-The first one contains the statements of each exercices + NI provided VIs and controls + NI solutions 
+
+The first one contains the statements of each exercices + NI provided VIs and controls + NI solutions.
+
 The second one contains the solutions presented in the book.
 
 ---
